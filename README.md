@@ -1,2 +1,4 @@
 # 93hsy
-93hsy discuz自动签到
+93hsy.com 好书友 discuz自动签到
+
+集成Server酱微信推送
